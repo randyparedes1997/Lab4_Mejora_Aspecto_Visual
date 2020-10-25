@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">VisualAspect</string>
+    <string name="ver_detalles">Ver detalles</string>
+    <string name="deportista_pagados">Deportistas mejor Pagados</string>
+    <string-array name="Deportistas">
+        <item>Roger Federer</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Lionel Messi</item>
+        <item>Neymar da Silva Santos</item>
+        <item>LeBron James</item>
+        <item>Stephen Curry</item>
+        <item>Kevin Durant</item>
+        <item>Tiger Woods</item>
+    </string-array>
+    <string-array name="nacionalidad">
+        <item>Suiza</item>
+        <item>Portugal</item>
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+        <item>Estados Unidos</item>
+    </string-array>
+
+    <string-array name="links">
+        <item>https://es.wikipedia.org/wiki/Roger_Federer</item>
+        <item>https://es.wikipedia.org/wiki/Cristiano_Ronaldo</item>
+        <item>https://es.wikipedia.org/wiki/Lionel_Messi</item>
+        <item>https://es.wikipedia.org/wiki/Neymar</item>
+        <item>https://es.wikipedia.org/wiki/LeBron_James</item>
+        <item>https://es.wikipedia.org/wiki/Stephen_Curry</item>
+        <item>https://es.wikipedia.org/wiki/Kevin_Durant</item>
+        <item>https://es.wikipedia.org/wiki/Tiger_Woods</item>
+    </string-array>
+
+    <string-array name="descripcion">
+        <item>
+            Roger Federer (Basilea, Suiza; 8 de agosto de 1981) es un tenista suizo,
+            12​ vencedor de 20 títulos individuales en torneos de Grand Slam,
+            el mayor número de toda la historia en tenis masculino junto a Rafael Nadal
+            y ha mantenido el puesto número 1 en el ranking de la ATP por un
+            iempo récord de 310 semanas, 237 consecutivas. Actualmente ocupa el cuarto lugar en la clasificación ATP.
+
+        </item>
+        <item>
+            Cristiano Ronaldo dos Santos Aveiro, más conocido como Cristiano Ronaldo,
+            es un futbolista portugués que juega como delantero en la
+            Juventus F. C. de la Serie A de Italia y en la selección de Portugal, de la cual es su capitán.
+        </item>
+        <item>
+            Lionel Andrés Messi Cuccittini (Rosario, Santa Fe; 24 de junio de 1987),
+            conocido como Leo Messi,7​ es un futbolista argentino que juega como
+            delantero o centrocampista. Se desempeña en el F. C. Barcelona de la
+            Primera División de España y en la selección de Argentina, equipos de los que es capitán.
+        </item>
+        <item>
+            Neymar da Silva Santos Júnior (Mogi das Cruzes, São Paulo, 5 de febrero de 1992),
+            conocido simplemente como Neymar o Neymar Jr., es un futbolista brasileño.
+            Juega como delantero y su equipo actual es el París Saint-Germain Football Club de la Ligue 1 de Francia.
+            Es internacional absoluto con la selección de Brasil desde 2010. Dotado de una gran técnica,
+            es considerado como uno de los mejores jugadores del mundo de su generación.
+        </item>
+        <item>
+            LeBron Raymone James Sr. (Akron, Ohio, 30 de diciembre de 1984) es un jugador de baloncesto
+            estadounidense que actualmente pertenece a la plantilla de Los Angeles Lakers de la NBA.
+            Con 2,06 metros de estatura, su posición es la de alero, pero su talento, versatilidad
+            y poderío físico le permiten jugar tanto de base como de ala-pívot. James es considerado
+            como uno de los mejores jugadores de baloncesto del mundo y de la historia.
+        </item>
+        <item>
+            Wardell Stephen Curry II (Akron, Ohio, 14 de marzo de 1988) es un jugador estadounidense
+            de baloncesto que pertenece al equipo de los Golden State Warriors de la NBA. Con 1,91 metros de altura,
+            juega en la posición de base, aunque puede jugar también de escolta. Es hijo del exjugador de la NBA Dell Curry
+            y hermano mayor del también base de la NBA, Seth Curry.
+        </item>
+        <item>
+            Kevin Wayne Durant (Washington D. C., Estados Unidos, 29 de septiembre de 1988) es un jugador profesional de baloncesto estadounidense.
+            Juega en la posición de alero y actualmente milita en los Brooklyn Nets de la NBA.
+        </item>
+        <item>
+            Eldrick Tont "Tiger" Woods (Cypress, California; 30 de diciembre de 1975) es un golfista estadounidense.
+            Es considerado uno de los golfistas más importantes de todos los tiempos, junto a Jack Nicklaus y Arnold Palmer.
+            Actualmente cuenta con 15 majors, convirtiéndose así en el segundo jugador con más majors ganados en la historia del golf, a tres de Jack Nicklaus
+        </item>
+    </string-array>
+
+
+</resources>

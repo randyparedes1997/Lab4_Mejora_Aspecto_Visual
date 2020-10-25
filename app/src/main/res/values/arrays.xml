@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="deportistas_img">
+        <item>@drawable/federer</item>
+        <item>@drawable/cristiano</item>
+        <item>@drawable/messi</item>
+        <item>@drawable/neymar</item>
+        <item>@drawable/lebron</item>
+        <item>@drawable/curry</item>
+        <item>@drawable/durant</item>
+        <item>@drawable/woods</item>
+    </integer-array>
+</resources>
